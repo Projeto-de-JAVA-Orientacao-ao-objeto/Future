@@ -10,6 +10,8 @@ public class FutureApplication {
 		SpringApplication.run(FutureApplication.class, args);
 		System.out.println("Hello world");
 		System.out.println("criando um usuario");
+		System.out.println("criando Banco de dados");
+
 
 
 
